@@ -191,7 +191,7 @@ body {
 
   @media (max-width: 768px) {
     .box, .profile_box, .back-box {
-      width: 80%;
+      width: 90%;
     }
 
     .title h2 {
@@ -228,6 +228,6 @@ body {
     .back-box {
       padding: 10px;
       top: 20px;
-      left: 20px;
+      left: 10px;
     }
   }
